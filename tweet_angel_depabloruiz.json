@@ -1,0 +1,21 @@
+{
+	"usuario":[
+		 {
+			"nombre": "Fernando",
+			"usuarioVerificado": false,
+			"alias": "fer234",
+			"followers": 23
+
+		}
+	],
+	"contenido": [{ "idioma": "español", "texto": "Estudiando en afa formación"}],
+	"retweets": 32,
+	"megusta": 223,
+	"comentarios": [
+		{
+		"usuario": "jaime345",
+		"idioma":"español",
+		"texto": ":)"
+		}
+	]
+}

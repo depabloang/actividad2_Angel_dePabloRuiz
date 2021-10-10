@@ -1,0 +1,14 @@
+<tweet>
+	<usuario>
+		<nombre usuarioVerificado="false">Fernando</nombre>
+		<alias>fer234</alias>
+		<followers>34</followers>
+	</usuario>
+	<contenido idioma="español">Estudiando en afa formación</contenido>
+	<retweets>543</retweets>
+	<megusta>34</megusta>
+	<comentarios>
+			<usuario>jaime343</usuario>
+			<respuesta idioma="español">:)</respuesta>
+	</comentarios>
+</tweet>
